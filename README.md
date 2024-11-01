@@ -6,6 +6,7 @@
 国内动态加速 直连无需代理
   
 [快速开始](https://api.ablai.top) / [使用教程](https://docs.lyzplus.cn/doc/1/) / [支持的模型](https://api.ablai.top/models) 
+
 [加我进群](https://cdnimg.lyzplus.cn/talk/wechat.webp)
 </div>
 
@@ -100,5 +101,5 @@ OpenAI 接口管理 & 分发系统，可作为API代理分销系统，进行商�
 **Fystart**
 OpenAI 接入点设置为 https://api.ablai.top/
 
-# 加我进群
-![加我进群](https://cdnimg.lyzplus.cn/talk/wechat.webp)
+# 加我进群（API交流群）
+<img src="https://cdnimg.lyzplus.cn/talk/wechat.webp" alt="微信群" width="200" height="200">
