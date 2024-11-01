@@ -7,8 +7,7 @@ Domestic dynamic acceleration, direct connection without proxy
 
 [Quick Start](https://api.ablai.top) / [User Guide](https://docs.lyzplus.cn/doc/1/) / [Supported Models](https://api.ablai.top/models) 
 
-[Join Our Group](https://cdnimg.lyzplus.cn/talk/wechat.webp) / [中文介绍](https://github.com/aboluoai/GPT_FreeAPI)/ [英文介绍] 
-</div>
+[Add me to the group](https://cdnimg.lyzplus.cn/talk/wechat.webp) / [Chinese Introduction](https://github.com/aboluoai/GPT_FreeAPI) / [English Introduction](https://github.com/aboluoai/GPT_FreeAPI/blob/main/README_en.md)</div>
 
 ## Our Advantages
 - ❤️ No need for a scientific internet connection, global direct connection, no risk of account suspension, request speed is 1200 times faster than personal accounts
