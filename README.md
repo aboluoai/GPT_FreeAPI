@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
+<img src="https://cdnimg.lyzplus.cn/ablai/ablailogo2.png" alt="icon" width="50px"/>
 <h1 align="center">GPT_FreeAPI</h1>
 支持 ChatGPT全模型 / Midjourney / Claude / Suno / Luma /DALL·E / 国内外其他大模型300+ 
   
