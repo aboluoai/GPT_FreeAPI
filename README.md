@@ -32,7 +32,8 @@
 | 访问要求 | 无需代理访问 | 需要在可支持的地区使用 |
 
 ## 最新动态
-
+- 🌟 已增加 claude 逆向，vip 分组可用，仅支持 sonnet 3-5 系列模型
+- 🌟 已兼容最新的 openai chatgpt 搜索效果，直接用 gpt-4-all 或者 gpt-4o-all 即可触发联网搜索，网页和 api 均已兼容，可以放心无缝接入
 - 🌟 已兼容最新的 OpenAI ChatGPT 搜索效果，直接用 `gpt-4-all` 或者 `gpt-4o-all` 即可触发联网搜索，网页和 API 均已兼容，可以放心无缝接入。2024.11.01
 - 🌟 逆向分组、SVIP、Default 分组因受风控影响。SVIP、Default 分组现已使用纯官兜底，以提升稳定性。2024.10.30
 - 🌟 已支持 Claude 最新模型 `claude-3-5-sonnet-20241022`、`claude-3-5-sonnet-latest` 仅支持 SSVIP 令牌分组，倍率和老的 3-5 一样。2024.10.23
